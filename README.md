@@ -1,81 +1,102 @@
-   <html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AndesNet Soluciones Tecnológicas</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: Arial, sans-serif;
-      background-color: #f2f2f2;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: flex-start;
-      min-height: 100vh;
-      text-align: center;
-    }
-    header {
-      background-color: #004080;
-      color: white;
-      width: 100%;
-      padding: 20px 0;
-    }
-    h1 {
-      margin: 0;
-      font-size: 1.8em;
-    }
-    section {
-      padding: 20px;
-      max-width: 600px;
-      width: 90%;
-      background-color: white;
-      border-radius: 10px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      margin-top: 20px;
-    }
-    .contact-btn {
-      display: inline-block;
-      margin: 15px 0;
-      padding: 12px 25px;
-      background-color: #25D366; /* Verde WhatsApp */
-      color: white;
-      text-decoration: none;
-      font-weight: bold;
-      border-radius: 5px;
-      transition: background 0.3s;
-    }
-    .contact-btn:hover {
-      background-color: #128C7E;
-    }
-    img.qr {
-      max-width: 200px;
-      margin: 20px 0;
-    }
-    p {
-      line-height: 1.5;
-      font-size: 1em;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>AndesNet Soluciones Tecnológicas</h1>
-  </header>
+   <html>
+  <head>
+    <meta charset="UTF-8">
+    <title>AndesNet Soluciones Tecnológicas</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(to bottom, #1e3d59, #f5f5f5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        text-align: center;
+      }
 
-  <section>
-    <h2>Perfil Profesional</h2>
-    <p>Hola, soy estudiante de Ingeniería y trabajo en el campo de las telecomunicaciones.  
-       También tengo experiencia como Auxiliar de empalmería.</p>
+      .container {
+        background-color: #ffffffdd;
+        padding: 35px;
+        border-radius: 15px;
+        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        max-width: 420px;
+        width: 90%;
+      }
 
-    <h2>Servicios</h2>
-    <p>Desarrollo de páginas web, administración de servidores y soporte en redes de telecomunicaciones.</p>
+      h1 {
+        color: #1e3d59;
+        font-size: 26px;
+        margin-bottom: 8px;
+      }
 
-    <a class="contact-btn" href="https://wa.me/573046338016" target="_blank">Contactar vía WhatsApp</a>
+      h2 {
+        color: #ff6e40;
+        font-size: 20px;
+        margin-bottom: 20px;
+      }
 
-    <h2>Código QR del Proyecto</h2>
-    <img class="qr" src="qr-code.png" alt="Código QR de AndesNet">
-  </section>
-</body>
-</html> 
+      p {
+        font-size: 16px;
+        margin: 5px 0;
+        color: #333;
+      }
+
+      .whatsapp-button {
+        display: inline-block;
+        margin-top: 18px;
+        padding: 12px 22px;
+        background-color: #25d366;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 10px;
+        font-weight: bold;
+        transition: background-color 0.3s;
+      }
+
+      .whatsapp-button:hover {
+        background-color: #1ebe57;
+      }
+
+      .qr {
+        margin-top: 25px;
+      }
+
+      /* Opcional: estilos para imagen futura */
+      .logo-placeholder {
+        width: 120px;
+        height: 120px;
+        margin: 0 auto 20px auto;
+        background-color: #cccccc;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 14px;
+        color: #555;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container">
+      <!-- Aquí puedes agregar logo más adelante -->
+      <div class="logo-placeholder">Logo AndesNet</div>
+
+      <h1>AndesNet Soluciones Tecnológicas</h1>
+      <h2>Perfil Profesional</h2>
+      <p>Estudiante de Ingeniería en Sistemas y Telecomunicaciones</p>
+      <p>Técnico en Telecomunicaciones</p>
+      <p>Aux de empalmería</p>
+
+      <!-- Botón WhatsApp -->
+      <a class="whatsapp-button" href="https://wa.me/573046338016" target="_blank">
+        Contactar por WhatsApp
+      </a>
+
+      <!-- Código QR dinámico -->
+      <div class="qr">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://dbotina.github.io/ANDESNET-/" alt="Código QR AndesNet">
+      </div>
+    </div>
+  </body>
+</html>
