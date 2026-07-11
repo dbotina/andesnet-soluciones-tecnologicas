@@ -173,8 +173,8 @@ aplicando diagnóstico técnico y optimización de parámetros en campo.
 <div class="card">
 <h3>Formación</h3>
 <p>
-• Ingeniería en Programación y Telecomunicaciones (En curso)<br>
-• Técnico en Telecomunicaciones<br>
+• Ingeniería en Programación y Telecomunicaciones (En curso 2026 )<br>
+• Técnologo en Telecomunicaciones(matricula profeccional)💳<br>
 • Técnico Mecánico Industrial<br>
 • Técnico en Electricidad<br>
 • Electrónica Básica
