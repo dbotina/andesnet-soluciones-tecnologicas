@@ -1,1 +1,2 @@
-https://chatgpt.com/backend-api/estuary/content?id=file_00000000afa0820eb538609d825f9ba8&fn=andesnet_nuevo.zip&cd=attachment&ts=496343&p=fs&cid=1&sig=613ebdfd6e9a4726527fa5d81fbfe7d13369c11b874f055d8e9b8f515aaaca30&v=0
+https://
+com/backend-api/estuary/content?id=file_00000000afa0820eb538609d825f9ba8&fn=andesnet_nuevo.zip&cd=attachment&ts=496343&p=fs&cid=1&sig=613ebdfd6e9a4726527fa5d81fbfe7d13369c11b874f055d8e9b8f515aaaca30&v=0
