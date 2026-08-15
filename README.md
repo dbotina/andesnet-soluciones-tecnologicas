@@ -148,11 +148,11 @@ box-shadow:0 8px 20px rgba(0,0,0,0.3);
 <img src="perfil.jpg">
 
 <h1>Felipe Botina</h1>
-<h2>Ingeniería en Programación y Telecomunicaciones</h2>
+<h2>Ingeniería en Programación backend y Telecomunicaciones</h2>
 
 <p>
 Perfil técnico con experiencia en campo en el sector de telecomunicaciones,
-enfocado en infraestructura de red, configuración de equipos y crecimiento profesional en desarrollo tecnológico.
+enfocado en infraestructura de red, configuración de equipos y crecimiento profesional en desarrollo tecnológico.backend en proceso .... 
 </p>
 
 <div class="buttons">
@@ -173,7 +173,7 @@ aplicando diagnóstico técnico y optimización de parámetros en campo.
 <div class="card">
 <h3>Formación</h3>
 <p>
-• Ingeniería en Programación y Telecomunicaciones (En curso 2026 )<br>
+• Ingeniería en Programación y Telecomunicaciones (En curso 202**..... )<br>
 • Técnologo en Telecomunicaciones(matricula profeccional)💳<br>
 • Técnico Mecánico Industrial<br>
 • Técnico en Electricidad<br>
@@ -190,7 +190,7 @@ aplicando diagnóstico técnico y optimización de parámetros en campo.
 <p><strong>Configuración de Equipos</strong></p>
 <div class="bar"><div class="fill" style="width:80%;">80%</div></div>
 
-<p><strong>Programación (Fundamentos)</strong></p>
+<p><strong>Programación python🐍 java♨️ (Fundamentos)</strong></p>
 <div class="bar"><div class="fill" style="width:65%;">65%</div></div>
 
 <p><strong>HTML & CSS</strong></p>
