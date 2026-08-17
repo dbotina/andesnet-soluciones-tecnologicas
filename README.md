@@ -130,7 +130,7 @@ body{
     margin-bottom:25px;
 }
 
-.profile img pnj{
+.profile foto jpg{
     width:100px;
     height:100px;
     border-radius:16px;
